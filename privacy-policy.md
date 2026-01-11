@@ -1,6 +1,6 @@
 # Privacy Policy – Calmeals
 
-**Last updated:** 25 December 2025
+**Last updated:** 11 January 2026
 
 Calmeals is designed to be calm, minimal, and respectful of your privacy.  
 This policy explains what data we collect, why we collect it, and how it is handled.
