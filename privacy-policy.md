@@ -42,6 +42,7 @@ Calmeals does **not** use your data for advertising or marketing purposes.
 
 AI insights are generated **only on demand**.  
 No content is auto-generated, and no data is analyzed without your request.
+By using Calmeals, you acknowledge that your anonymized text data may be processed by our AI partners to provide these services.
 
 ---
 
@@ -51,8 +52,9 @@ We do not sell or rent your personal data.
 
 Limited data may be shared with trusted services only as required for app functionality:
 
-- **Authentication providers** (such as Google Sign-In)
-- **Google Play** (for subscriptions and payments)
+  - **Authentication providers** (such as Google Sign-In)
+  - **AI Service Providers** (OpenAI) – specific meal and usage data is sent to generate the insights you request.
+  - **Google Play** (for subscriptions and payments)
 
 All such services follow their own privacy and security standards.
 
